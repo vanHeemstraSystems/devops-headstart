@@ -5,13 +5,13 @@ Based on "Become A DevOps Engineer in 2022: A Comprehensive Guide" at https://de
 
 In this comprehensive guide, I have shared my DevOps Engineer experiences in different organizations and tips to become a DevOps Egnineer.
 
-As for the current IT market, the DevOps domain is one of the best options for IT folks’ salary and career growth. One common question I get quite often is, “How to become a DevOps engineer?“
+As for the current IT market, the DevOps domain is one of the best options for IT folks’ salary and career growth. One common question I get quite often is, ***“How to become a DevOps engineer?“***
 
-Many people argue (including me) that there is nothing like a “DevOps Engineer” or a “DevOps Team” because it is not a thing. However, everyone in the industry now got used to the term “DevOps engineer, ” and as long as you understand the DevOps philosophy, these titles don’t matter much.
+Many people argue (including me) that ***there is nothing like a “DevOps Engineer”*** or a ***“DevOps Team”*** because it is not a thing. However, everyone in the industry now got used to the term “DevOps engineer, ” and as long as you understand the DevOps philosophy, these titles don’t matter much.
 
 Towards the end of the article, I have added the different teams a DevOps engineer can be part of.
 
-There are many misconceptions about what DevOps really means. One such misconception is “Automation is DevOps.” Developing skills related to infrastructure automation is not enough to become a DevOps Engineer.
+There are many misconceptions about [what DevOps really means](https://devopscube.com/what-is-devops-what-does-it-really-mean/). One such misconception is ***“Automation is DevOps.”*** Developing skills related to [infrastructure automation](https://devopscube.com/devops-tools-for-infrastructure-automation/) is not enough to become a DevOps Engineer.
 
 Wikipedia says,
 
