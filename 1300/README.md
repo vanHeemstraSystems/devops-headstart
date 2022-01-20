@@ -15,4 +15,5 @@ Here is a good pictorial representation of the CI/CD process by bmc.
 CI/CD in devops
 
 ![image](https://user-images.githubusercontent.com/12828104/150359718-34736d70-845e-4cf2-9814-9b00b2f80be0.png)
+
 source: bmc
