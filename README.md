@@ -14,8 +14,8 @@ Towards the end of the article, I have added the different teams a DevOps engine
 There are many misconceptions about what DevOps really means. One such misconception is “Automation is DevOps.” Developing skills related to infrastructure automation is not enough to become a DevOps Engineer.
 
 Wikipedia says,
-
-DevOps (a clipped compound of development and operations) is a culture, movement or practice that emphasizes the collaboration and communication of both software developers and other information-technology (IT) professionals while automating the process of software delivery and infrastructure changes.
+```
+DevOps (a clipped compound of development and operations) is a culture, movement or practice that emphasizes the collaboration and communication of both software developers and other information-technology (IT) professionals while automating the process of software delivery and infrastructure changes.```
 
 From the above definition, it is clear that DevOps is not about any tools or technologies. It is a philosophy for making different IT teams (Developers, Platforms teams, QA, Performance, etc) work together to deliver better and fast results through continuous feedback.
 
