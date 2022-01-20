@@ -22,6 +22,37 @@ You should spend some time and have a basic understanding of the following.
 | Troubleshooting |
 | VPN |
 
+| Storage |
+| --- |
+| SAN |
+| Backups |
+| NFS |
 
+| Single Sign-On |
+| --- |
+| Active Directory/LDAP |
+
+| High Availability |
+| --- |
+| Clusters |
+| Fail Over Mechanisms |
+| Disaster Recovery |
+
+| Load Balancers |
+| --- |
+| L5 Load Balancers |
+| L7 Load Balancers |
+| Load balancing algorithms |
+| Reverse Proxy |
+
+| Security |
+| --- |
+| PKI Infrastructure |
+| SSL certificates |
+
+| VPN |
+| --- |
+| Site to Site VPN |
+| Client to site VPN |
 
 There could be more things, but I have highlighted the critical components in an IT Infrastructure.
