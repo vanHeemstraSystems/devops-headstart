@@ -21,7 +21,7 @@ From the above definition, it is clear that DevOps is not about any tools or tec
 
 Here is an interesting trend graph showing DevOp’s popularity in the last five years.
 
-
+![image](https://user-images.githubusercontent.com/12828104/150304058-252336d6-b6df-451b-98a4-b025e4c88780.png)
 
 ## 100 - Who is a DevOps Engineer?
 
